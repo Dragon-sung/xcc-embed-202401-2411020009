@@ -1,0 +1,9 @@
+.\objects\main.o: User\main.c
+.\objects\main.o: .\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\main.o: .\CMSIS\Include\core_cm4.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\CMSIS\Include\cmsis_version.h
+.\objects\main.o: .\CMSIS\Include\cmsis_compiler.h
+.\objects\main.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\main.o: .\CMSIS\Include\mpu_armv7.h
+.\objects\main.o: .\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
